@@ -1,6 +1,6 @@
-# Infinite SWAPI
+# Infinite Scroll with Star Wars API
 
-### A project to demonstrate React Query useInfiniteQuery, for the Udemy course "React Query: Server State Management for React"
+### A project to demonstrate React Query useInfiniteQuery, tutorial from the Udemy course "React Query: Server State Management for React"
 
 ## Installation
 
@@ -11,8 +11,11 @@
 
 ## Running the App
 
-Run `npm start`. The app will be found at [http://localhost:3000]
+> Run `npm start`. The app will be found at [http://localhost:3000]
 
-## Server
+## Server 
 
-This app uses the [Star Wars API](https://swapi.dev/) server.
+> This app uses the [Star Wars API](https://swapi.dev/) server.
+
+
+
